@@ -23,3 +23,4 @@ coffeescript
 accounts-ui
 accounts-password
 urigo:angular-blaze-template
+aldeed:simple-schema
